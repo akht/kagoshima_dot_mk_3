@@ -24,6 +24,16 @@ GitHubに登録したら、アカウントを主催者陣に教えてくださ�
 まず「Git/GitHubってなに？どんな感じで使うの？」を簡単に説明したあと、
 実際に開発を体験してもらいます。
 
+## [GitとGitHub用語集](https://zukulog098r.com/git/)
+
+![GitとGitHub用語集1](image/git-1-5.png "GitとGitHub用語集1")
+
+![GitとGitHub用語集2](image/git-2-5.png "GitとGitHub用語集2")
+
+![GitとGitHub用語集3](image/git-3-4.png "GitとGitHub用語集3")
+
+![GitとGitHub用語集4](image/git-4-5.png "GitとGitHub用語集4")
+
 ### 開発の流れ
 
 1. リポジトリのissueを確認して、自分がやると宣言する
