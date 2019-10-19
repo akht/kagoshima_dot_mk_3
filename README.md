@@ -4,6 +4,9 @@ connpass: [鹿児島.mk #3 GitとPull Requestを活用したチーム開発手�
 
 このイベントで使うリポジトリです。
 
+Netlifyで公開しています。
+https://silly-cray-a8656a.netlify.com/
+
 ## 準備
 
 - マシンにGitをインストールする
