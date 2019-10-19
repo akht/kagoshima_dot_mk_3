@@ -2,7 +2,7 @@ require 'fileutils'
 
 num = 30
 
-%w(./js ./css).map {|p| FileUtils.mkdir_p(p) unless FileTest.exist?(p)}
+%w(./public ./public/js ./public/css).map {|p| FileUtils.mkdir_p(p) unless FileTest.exist?(p)}
 
 def js(i)
     <<~EOS
@@ -27,11 +27,11 @@ buttons = []
 css = []
 js = []
 1.upto num do |i|
-    File.open("js/button#{i}.js", "w") do |f|
+    File.open("./public/js/button#{i}.js", "w") do |f|
         f.puts js(i)
     end
 
-    File.open("css/button#{i}.css", "w") do |f|
+    File.open("./public/css/button#{i}.css", "w") do |f|
         f.puts css(i)
     end
 
@@ -58,7 +58,7 @@ def create_html(css, body, js)
     EOS
 end
 
-File.open("index.html", "w") do |f|
+File.open("./public/index.html", "w") do |f|
     body = "<div class=\"content\">\n"
     body += "<p>\n"
     body += buttons.each_slice(5).map{|e| e.join("\n")}.join("\n</p>\n<p>\n") + "\n"
@@ -68,7 +68,7 @@ File.open("index.html", "w") do |f|
     f.puts create_html(css, body, js)
 end
 
-File.open("css/style.css", "w") do |f|
+File.open("./public/css/style.css", "w") do |f|
     f.puts <<~EOS
     .content {
         width: 800px;
