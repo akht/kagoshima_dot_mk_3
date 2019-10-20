@@ -34,6 +34,8 @@ GitHubに登録したら、アカウントを主催者陣に教えてくださ�
 
 ![GitとGitHub用語集4](image/git-4-5.png "GitとGitHub用語集4")
 
+[【イラストで覚える】初心者のためのGitとGitHub用語集](https://zukulog098r.com/git/) より引用
+
 ### 開発の流れ
 
 1. リポジトリのissueを確認して、自分がやると宣言する
