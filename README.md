@@ -12,7 +12,8 @@ https://silly-cray-a8656a.netlify.com/
 - マシンにGitをインストールする
 - GitHubに登録する
 
-※ここではインストール方法は解説しません。ググると解説記事がたくさん見つかります。
+### Windowsでのインストール方法
+[【Windows】Gitの環境構築をしよう！](https://prog-8.com/docs/git-env-win) を参考にインストールする
 
 GitHubに登録したら、アカウントを主催者陣に教えてください。
 このリポジトリのコラボレータに招待します。
@@ -39,12 +40,12 @@ GitHubに登録したら、アカウントを主催者陣に教えてくださ�
 ### 開発の流れ
 
 1. リポジトリのissueを確認して、自分がやると宣言する
-1. リポジトリをローカルマシンにclone
-1. `index.html`をブラウザで開く
-1. ボタンが並んでいるので、自分が対応するボタンを確認
-1. ローカルで修正用ブランチを切る
-1. 修正をcommitして、ブランチをGitHubにpushする
-1. GitHub上でPull Requestを作成する
-1. レビューを依頼する
-1. レビューがOKならmasterブランチにmergeする
-1. [Netlify](https://silly-cray-a8656a.netlify.com/)で確認する
+2. リポジトリをローカルマシンにclone
+3. `index.html`をブラウザで開く
+4. ボタンが並んでいるので、自分が対応するボタンを確認
+5. ローカルで修正用ブランチを切る
+6. 修正をcommitして、ブランチをGitHubにpushする
+7. GitHub上でPull Requestを作成する
+8. レビューを依頼する
+9. レビューがOKならmasterブランチにmergeする
+10. [Netlify](https://silly-cray-a8656a.netlify.com/)で確認する
