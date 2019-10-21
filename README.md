@@ -12,7 +12,12 @@ https://silly-cray-a8656a.netlify.com/
 - マシンにGitをインストールする
 - GitHubに登録する
 
-※ここではインストール方法は解説しません。ググると解説記事がたくさん見つかります。
+### Windowsでのインストール方法
+- [【Windows】Gitの環境構築をしよう！](https://prog-8.com/docs/git-env-win) を参考にインストールする。
+- [【Git】Windows環境でGitHubにSSH接続してコミットするまでの手順](https://qiita.com/hollyhock0518/items/a3fee20951cd92c87ed9) を参考に鍵認証の設定を行う。
+
+### Macでのインストール方法
+- [Git のインストール 〜Git をMacにインストールしよう〜](https://tracpath.com/bootcamp/git-install-to-mac.html) を参考にインストールする。
 
 GitHubに登録したら、アカウントを主催者陣に教えてください。
 このリポジトリのコラボレータに招待します。
@@ -47,3 +52,4 @@ GitHubに登録したら、アカウントを主催者陣に教えてくださ�
 1. GitHub上でPull Requestを作成する
 1. レビューを依頼する
 1. レビューがOKならmasterブランチにmergeする
+1. [本番環境](https://silly-cray-a8656a.netlify.com/)で確認する
