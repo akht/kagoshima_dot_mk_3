@@ -14,6 +14,7 @@ https://silly-cray-a8656a.netlify.com/
 
 ### Windowsでのインストール方法
 - [【Windows】Gitの環境構築をしよう！](https://prog-8.com/docs/git-env-win) を参考にインストールする。
+- [【Git】Windows環境でGitHubにSSH接続してコミットするまでの手順](https://qiita.com/hollyhock0518/items/a3fee20951cd92c87ed9) を参考に鍵認証の設定を行う。
 
 ### Macでのインストール方法
 - [Git のインストール 〜Git をMacにインストールしよう〜](https://tracpath.com/bootcamp/git-install-to-mac.html) を参考にインストールする。
