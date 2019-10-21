@@ -47,3 +47,4 @@ GitHubに登録したら、アカウントを主催者陣に教えてくださ�
 1. GitHub上でPull Requestを作成する
 1. レビューを依頼する
 1. レビューがOKならmasterブランチにmergeする
+1. [Netlify](https://silly-cray-a8656a.netlify.com/)で確認する
