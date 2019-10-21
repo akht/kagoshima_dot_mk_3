@@ -13,7 +13,10 @@ https://silly-cray-a8656a.netlify.com/
 - GitHubに登録する
 
 ### Windowsでのインストール方法
-[【Windows】Gitの環境構築をしよう！](https://prog-8.com/docs/git-env-win) を参考にインストールする
+- [【Windows】Gitの環境構築をしよう！](https://prog-8.com/docs/git-env-win) を参考にインストールする。
+
+### Macでのインストール方法
+- [Git のインストール 〜Git をMacにインストールしよう〜](https://tracpath.com/bootcamp/git-install-to-mac.html) を参考にインストールする。
 
 GitHubに登録したら、アカウントを主催者陣に教えてください。
 このリポジトリのコラボレータに招待します。
