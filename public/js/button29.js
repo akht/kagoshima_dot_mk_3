@@ -1,3 +1,3 @@
 document.querySelector('.button29').onclick = function() {
-    alert('button29');
+    window.open('https://haru-ni.net', '_blank'); 
 }
