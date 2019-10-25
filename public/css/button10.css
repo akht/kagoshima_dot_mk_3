@@ -1,6 +1,12 @@
 .button10 {
-    color: black;
-    background-color: white;
+    color: red;
+    background-color: gray;
     width: 120px;
     height: 30px;
+    border-style: none;
+}
+
+.button10:hover {
+    background-color: lightcoral;
+    color: white;
 }
