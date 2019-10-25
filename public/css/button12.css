@@ -1,6 +1,19 @@
 .button12 {
-    color: black;
-    background-color: white;
+    color: yellow;
+    background-color: black;
     width: 120px;
     height: 30px;
 }
+.button12 {
+    position: relative;
+    display: inline-block;
+    padding: 0.25em 0.5em;
+    text-decoration: none;
+    background: #00BCD4;/*背景色*/
+    color: #00BCD4;/*=背景色*/
+    box-shadow: inset 0 2px 0 rgba(255,255,255,0.2);
+    border-bottom: solid 2px #118e9e;
+    border-radius: 4px;
+    font-weight: bold;
+    text-shadow: -1px -1px rgba(255, 255, 255, 0.44), 1px 1px rgba(0, 0, 0, 0.38);
+  }
