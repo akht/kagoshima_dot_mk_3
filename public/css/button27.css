@@ -1,6 +1,77 @@
 .button27 {
-    color: black;
-    background-color: white;
-    width: 120px;
-    height: 30px;
+    text-decoration: none;
+    margin: 50px auto;
+    width: 150px;
+    height: 50px;
+    line-height: 50px;
+    font-family: Arial Black;
+    font-size: 20px;
+    color: #FFFFFF;
+    background-color: #FFC600;
+    border-radius: 5px;
+    animation: blink 1s linear infinite normal;
+    -webkit-animation: blink 1s linear infinite normal;
+    -moz-animation: blink 1s linear infinite normal;
+    -o-animation: blink 1s linear infinite normal;
+}
+
+.button27:hover {
+    animation: none;
+    -webkit-animation: none;
+}
+
+@keyframes blink {
+    0% {
+        background-color: #FFC600;
+    }
+
+    10% {
+        background-color: #FDE8A1;
+    }
+
+    100% {
+        background-color: #FFC600;
+    }
+}
+
+@-webkit-keyframes blink {
+    0% {
+        background-color: #FFC600;
+    }
+
+    10% {
+        background-color: #FDE8A1;
+    }
+
+    100% {
+        background-color: #FFC600;
+    }
+}
+
+@-moz-keyframes blink {
+    0% {
+        background-color: #FFC600;
+    }
+
+    10% {
+        background-color: #FDE8A1;
+    }
+
+    100% {
+        background-color: #FFC600;
+    }
+}
+
+@-o-keyframes blink {
+    0% {
+        background-color: #FFC600;
+    }
+
+    10% {
+        background-color: #FDE8A1;
+    }
+
+    100% {
+        background-color: #FFC600;
+    }
 }
