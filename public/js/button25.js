@@ -1,3 +1,3 @@
 document.querySelector('.button25').onclick = function() {
-    alert('button25');
+    location.href = 'https://www.uniqlo.com/jp/';
 }
