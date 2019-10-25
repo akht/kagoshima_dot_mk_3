@@ -1,3 +1,3 @@
 document.querySelector('.button27').onclick = function() {
-    alert('点滅するよー');
-}
+  window.open('http://unimal.jp/', '_blank'); 
+};
