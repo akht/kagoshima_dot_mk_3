@@ -1,3 +1,3 @@
 document.querySelector('.button8').onclick = function() {
-    alert('button8');
+    alert('Done by fksgshota!');
 }
