@@ -1,3 +1,3 @@
 document.querySelector('.button27').onclick = function() {
-    alert('button27');
+    alert('点滅するよー');
 }
