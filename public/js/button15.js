@@ -1,3 +1,3 @@
 document.querySelector('.button15').onclick = function() {
-    alert('Done by Serina!');
+    window.open('http://serina.babyblue.jp');
 }
