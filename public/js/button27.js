@@ -1,3 +1,3 @@
 document.querySelector('.button27').onclick = function() {
-    alert('button27');
-}
+  window.open('http://unimal.jp/', '_blank'); 
+};
