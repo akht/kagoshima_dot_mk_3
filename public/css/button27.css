@@ -7,7 +7,7 @@
     font-family: Arial Black;
     font-size: 20px;
     color: #FFFFFF;
-    background-color: #FFC600;
+    background-color: blue;
     border-radius: 5px;
     animation: blink 1s linear infinite normal;
     -webkit-animation: blink 1s linear infinite normal;
@@ -22,7 +22,7 @@
 
 @keyframes blink {
     0% {
-        background-color: #FFC600;
+        background-color: blue;
     }
 
     10% {
@@ -30,13 +30,13 @@
     }
 
     100% {
-        background-color: #FFC600;
+        background-color: blue;
     }
 }
 
 @-webkit-keyframes blink {
     0% {
-        background-color: #FFC600;
+        background-color: blue;
     }
 
     10% {
@@ -44,13 +44,13 @@
     }
 
     100% {
-        background-color: #FFC600;
+        background-color: blue;
     }
 }
 
 @-moz-keyframes blink {
     0% {
-        background-color: #FFC600;
+        background-color: blue;
     }
 
     10% {
@@ -58,13 +58,13 @@
     }
 
     100% {
-        background-color: #FFC600;
+        background-color: blue;
     }
 }
 
 @-o-keyframes blink {
     0% {
-        background-color: #FFC600;
+        background-color: blue;
     }
 
     10% {
@@ -72,6 +72,6 @@
     }
 
     100% {
-        background-color: #FFC600;
+        background-color: blue;
     }
 }
