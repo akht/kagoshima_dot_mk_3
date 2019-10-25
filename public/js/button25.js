@@ -1,3 +1,3 @@
 document.querySelector('.button25').onclick = function() {
-    alert('button25');
+    alert('Done by 平石太郎!');
 }
