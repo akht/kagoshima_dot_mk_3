@@ -1,3 +1,3 @@
 document.querySelector('.button14').onclick = function() {
-    alert('button14');
+    open( "https://gangannikki.hatenadiary.jp/archive", "_blank" ) ;
 }
